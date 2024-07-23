@@ -18,7 +18,6 @@ The repository contains the following files:
 
 * `Laplace.m` - MATLAB script to solve Laplace's equation using the finite difference method.
 * `TimeDomain.m` - MATLAB script to solve Maxwell's equations using the finite difference time domain method.
-* `documentation.pdf` - Theoretical background and methodology documentation for both projects.
 ## Features
 
 ### Laplace's Equation Solver
@@ -39,7 +38,7 @@ The repository contains the following files:
 
 1. Ensure that MATLAB is properly installed and configured to run the provided scripts.
 2. The grid resolution and simulation parameters can be adjusted in the scripts to suit different problem sizes and resolutions.
-3. For theory and detailed explanation of the methods, refer to the `documentation.pdf` file included in the repository.
+3. For theory and detailed explanation of the methods, refer to the [Documentation](https://docs.google.com/presentation/d/1EKptOWMXIFsXeU-AglO7u-vVLGhU4iwj/edit?usp=sharing&ouid=112359432576437648839&rtpof=true&sd=true) provided.
 ## Installation
 
 1. Clone the repository or download the project files.
@@ -48,9 +47,11 @@ The repository contains the following files:
 ## Usage
 - __Laplace's Equation Solver:__ Modify boundary conditions and iteration parameters as needed in the script before running.
 - __FDTD Simulation:__ Adjust the spatial step, time step, source position, and other parameters according to your simulation needs.
-
 ## 🚀 About Me
-My name is __Vikas Prajapati,__ and I am currently pursuing a __BTech in Computer Science and Engineering from IIT Jammu__. This project aims to strengthen my understanding of numerical methods by implementing and analyzing the finite difference techniques for solving Laplace's equation and Maxwell's equations.
 
+My name is __Vikas Prajapati,__ and I am currently pursuing a __BTech in Computer Science and Engineering from IIT Jammu__. This project aims to strengthen my understanding of numerical methods by implementing and analyzing the finite difference techniques for solving Laplace's equation and Maxwell's equations.
 ## 🔗 Links
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-prajapati-577bab252/)
+
+
